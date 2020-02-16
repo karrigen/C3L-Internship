@@ -11,10 +11,10 @@
 
 
 ### Reference
-[Cheat Sheets for Data Visualization Techniques](https://visualizationcheatsheets.github.io/Wang2020cheatsheets.pdf)
-[Focus on timecurves, adjacency matrices & boxplots](https://visualizationcheatsheets.github.io)
-[InfoVis 2015: Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data](https://vimeo.com/236171787)
-[Implementation of timecurves](https://aviz.fr/~bbach/timecurves/)
+- [Cheat Sheets for Data Visualization Techniques](https://visualizationcheatsheets.github.io/Wang2020cheatsheets.pdf)
+- [Focus on timecurves, adjacency matrices & boxplots](https://visualizationcheatsheets.github.io)
+- [InfoVis 2015: Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data](https://vimeo.com/236171787)
+- [Implementation of timecurves](https://aviz.fr/~bbach/timecurves/)
 [Source code of timecurves](https://github.com/benjbach/timecurves)
 [Social Network Analysis Labs in R and SoNIA](https://sna.stanford.edu/rlabs.php)
 [Linear Network Autocorrelation Model](http://homepage.ntu.edu.tw/~wenthung/R_Network/LabM1.html)
