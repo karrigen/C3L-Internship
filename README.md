@@ -22,3 +22,7 @@
 - [Linear Network Autocorrelation Model](http://homepage.ntu.edu.tw/~wenthung/R_Network/LabM1.html)
 - [Modeling Social Influence through Network Autocorrelation: Constructing the Weight Matrix](https://www.researchgate.net/publication/222250277_Modeling_Social_Influence_through_Network_Autocorrelation_Constructing_the_Weight_Matrix)
 - [Examining the effect of social influence on student performance through network autocorrelation models](https://www.researchgate.net/publication/277716977_Examining_the_effect_of_social_influence_on_student_performance_through_network_autocorrelation_models)
+
+### Tutorials
+- [Modern Regression](https://www.stat.cmu.edu/~cshalizi/mreg/15/)
+- [Multivariate Statistics: Concepts, Models, and Applications](https://psychstat3.missouristate.edu/Documents/MultiBook3/Mlt00.htm)
